@@ -24,3 +24,9 @@ Interactive slicers and filters
 Correlated housing prices with inflation and interest rates
 
 📷 **Dashboard Preview**
+<img width="1920" height="1080" alt="Sales-Performance" src="https://github.com/user-attachments/assets/96e342ff-a536-47fa-a7d9-e7b295226afa" />
+
+<img width="1920" height="1080" alt="dashboard-overview" src="https://github.com/user-attachments/assets/6ca0715b-bbd6-4850-a68e-1f209a230fb5" />
+
+<img width="1920" height="1080" alt="trend-analysis" src="https://github.com/user-attachments/assets/132063e0-e2be-43b4-b72b-360a5e86b55c" />
+
