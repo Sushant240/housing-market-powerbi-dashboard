@@ -1,5 +1,5 @@
 # **Housing Market Intelligence Dashboard**
-📌 Overview
+📌 **Overview**
 
 Analyzed 100,000+ housing records across 600+ cities and 4 regions using Power BI to identify pricing trends and market patterns.
 
