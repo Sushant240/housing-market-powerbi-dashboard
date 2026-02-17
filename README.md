@@ -15,13 +15,21 @@ Data Modeling
 
 📈 **Key Highlights**
 
-Built 10+ DAX measures (YoY %, Avg Price, Price/Sqm)
+Built 10+ DAX measures (YoY %, Avg Price, Price/Sqm).
 
-Regional and time-based trend analysis
+Regional and time-based trend analysis.
 
-Interactive slicers and filters
+Interactive slicers and filters.
 
-Correlated housing prices with inflation and interest rates
+Correlated housing prices with inflation and interest rates.
+
+**Business Insights**
+
+Apartments show highest price per SQM across regions.
+
+Price growth slows during high interest-rate periods.
+
+Certain regions show stronger long-term appreciation.
 
 📷 **Dashboard Preview**
 <img width="1920" height="1080" alt="Sales-Performance" src="https://github.com/user-attachments/assets/96e342ff-a536-47fa-a7d9-e7b295226afa" />
